@@ -1,11 +1,5 @@
 package org.example;
 
-import org.example.FutureExample.NumPrinter;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.concurrent.*;
-
 /**
  * Hello world!
  *
