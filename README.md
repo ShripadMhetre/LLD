@@ -1,9 +1,8 @@
 # LLD Practice Repository
 
+## Index -
 
-### Index :-
-
-#### Basics -
+### Basics -
 1. FutureExample - Callables, Future, ExecutorService, etc.
 2. AdderSubtractor - Adder Subtractor problem (Thread synchronization) solution 
    - using Locks which adds some extra logic to the business logic in Adder or Subtractor
@@ -15,17 +14,25 @@
    - Ref : [Mutex Vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/)
 4. LambdaAndStreams - Examples of functional interfaces, lambdas & Java stream basics
 
-#### Solid Principles -
+---
 
+### Solid Principles - 
+   - NO CONTENT YET
 
-#### Design Patterns -
-1. creational - Creational Design Patterns
+---
+
+### Design Patterns -
+1. **creational** - Creational Design Patterns
    - Singleton
    - builder
    - prototype
-   - Simple factory, factory method, abstract factory
-2. structural - Structural Design patterns
-   - asdf
-3. behavioral - Behavioral Design Patterns
-   - asdf
+   - Simple factory, factory method, 
+   - abstract factory
+2. **structural** - Structural Design patterns
+   - decorator
+   - adapter
+   - flyweight
+3. **behavioral** - Behavioral Design Patterns
+   - observer
+   - strategy
 
