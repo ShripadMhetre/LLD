@@ -40,3 +40,10 @@ Expectations :-
 - Project structured well across multiple files/ packages
 - Write unit tests
 - No need of GUI
+
+
+
+Solution Link :-
+https://github.com/kanmaytacker/design-questions/tree/lld-advanced-august/src/main/java/com/scaler/lld/kata
+OR
+https://github.com/kanmaytacker/design-questions/blob/temp/ttt/src/main/java/com/scaler/lld/kata/TicTacToe.java
