@@ -7,4 +7,9 @@ public class Main {
         int addition = calculator.calculate(100, 100, add);
         System.out.println("Answer: " + addition);
     }
+
+    /*
+        Open Closed Principle :-
+            Open of Extension, Closed for Modification.
+     */
 }

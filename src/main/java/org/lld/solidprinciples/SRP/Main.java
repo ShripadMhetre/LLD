@@ -20,6 +20,6 @@ public class Main {
 
     /*
         Why SRP :-
-            - Read
+            - Readability, Maintainability, Testability of code etc.
      */
 }

@@ -2,7 +2,7 @@ package org.lld.designpatterns.behavioral.strategy;
 
 import lombok.AllArgsConstructor;
 
-// Step 3: Creating manager class with strategy context
+// Step 3: Creating manager (i.e. context) class with strategy instance
 @AllArgsConstructor
 public class Navigator {
     private NavigationStrategy strategy;
