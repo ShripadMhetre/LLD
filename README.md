@@ -17,22 +17,27 @@
 ---
 
 ### Solid Principles - 
-   - NO CONTENT YET
+   - Single Responsibility Principle
+   - Open-Closed Principle
+   - Liskov Substitution Principle
+   - Interface Segregation
+   - Dependency Inversion
 
 ---
 
 ### Design Patterns -
 1. **creational** - Creational Design Patterns
    - Singleton
-   - builder
-   - prototype
+   - Builder
+   - Prototype
    - Simple factory, factory method, 
-   - abstract factory
+   - Abstract factory
 2. **structural** - Structural Design patterns
-   - decorator
-   - adapter
-   - flyweight
+   - Decorator
+   - Adapter
+   - Flyweight
+   - Composite
 3. **behavioral** - Behavioral Design Patterns
-   - observer
-   - strategy
+   - Observer
+   - Strategy
 
