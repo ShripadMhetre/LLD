@@ -1,4 +1,4 @@
-package org.lld.basics.ProducerConsumer.good;
+package org.lld.basics.ProducerConsumer.good_semaphore;
 
 import lombok.AllArgsConstructor;
 import lombok.SneakyThrows;
@@ -25,7 +25,6 @@ public class Consumer implements Runnable {
 
             // critical section ends
             pSema.release();
-
         }
     }
 }

@@ -13,7 +13,6 @@ public class SquareButton extends Button{
         this.length = length;
     }
 
-
     @Override
     public void render() {
 

@@ -1,4 +1,4 @@
-package org.lld.basics.ProducerConsumer.good;
+package org.lld.basics.ProducerConsumer.good_semaphore;
 
 import java.util.Queue;
 import java.util.Set;
